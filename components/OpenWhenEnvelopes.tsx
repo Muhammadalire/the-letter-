@@ -14,29 +14,25 @@ const envelopes: EnvelopeData[] = [
         id: 1,
         label: "Open when you're sad",
         color: "bg-wine-50 text-wine-900 border-wine-200",
-        message: "Remember that you are the sun in my sky. Even on cloudy days, your light is still there. I love you so much and I'm always here for you.",
-        image: "https://placekitten.com/400/300"
+        message: "Remember that you are the sun in my sky. Even on cloudy days, your light is still there. I love you so much and I'm always here for you."
     },
     {
         id: 2,
         label: "Open when you miss me",
         color: "bg-gold-50 text-wine-900 border-gold-200",
-        message: "I miss you too! Probably more! Close your eyes and imagine I'm holding your hand right now. We'll see each other soon! 💕",
-        image: "https://picsum.photos/seed/missyou/400/300"
+        message: "I miss you too! Probably more! Close your eyes and imagine I'm holding your hand right now. We'll see each other soon! 💕"
     },
     {
         id: 3,
         label: "Open when you're stressed",
         color: "bg-wine-50 text-wine-900 border-wine-200",
-        message: "Take a deep breath. In... Out... You are capable, you are smart, and you've got this! Don't let the world overwhelm you.",
-        image: "https://picsum.photos/seed/calm/400/300"
+        message: "Take a deep breath. In... Out... You are capable, you are smart, and you've got this! Don't let the world overwhelm you. I am so proud of my strong girl!"
     },
     {
         id: 4,
         label: "Open when you need a laugh",
         color: "bg-gold-50 text-wine-900 border-gold-200",
-        message: "Why did the scarecrow win an award? Because he was outstanding in his field! (Your smile is my favorite thing!)",
-        image: "https://picsum.photos/seed/funny/400/300"
+        message: "Why did the scarecrow win an award? Because he was outstanding in his field! (Your smile is my favorite thing!)"
     }
 ];
 

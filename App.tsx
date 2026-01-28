@@ -69,7 +69,7 @@ const App: React.FC = () => {
         <section ref={section1Ref} className="pt-10">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-heading text-wine-900 mb-4">The Muse</h2>
-            <p className="text-gray-500 italic">Everything that makes you, you.</p>
+            <p className="text-gray-500 italic">I admire your arts</p>
           </div>
 
           <div className="grid md:grid-cols-2 gap-8">
@@ -77,7 +77,7 @@ const App: React.FC = () => {
               <Palette className="w-12 h-12 text-wine-700 mb-6 group-hover:scale-110 transition-transform duration-500" strokeWidth={1} />
               <h3 className="text-2xl font-bold text-wine-900 mb-4 font-heading">The Artist</h3>
               <p className="text-gray-600 leading-relaxed font-light">
-                Your sketches aren't just drawings; they are windows into your beautiful mind. Every line you create captures a beauty that only you can see.
+                Your sketches aren't just drawings, they are windows into your beautiful mind. Every line you create captures a beauty which is cherished forever in my heart.
               </p>
             </div>
 
@@ -85,7 +85,7 @@ const App: React.FC = () => {
               <Music className="w-12 h-12 text-wine-700 mb-6 group-hover:scale-110 transition-transform duration-500" strokeWidth={1} />
               <h3 className="text-2xl font-bold text-wine-900 mb-4 font-heading">The Musician</h3>
               <p className="text-gray-600 leading-relaxed font-light">
-                The sound of your ukulele is the sweetest melody. It calms the storms and brings peace to my days.
+                The sound of your ukulele is the sweetest melody. It calms the storms and brings peace to my days, it warms my heart and melts me to core. Pair Ukulele with your voice and it's the most beautiful music I've ever heard.
               </p>
             </div>
           </div>
@@ -104,7 +104,7 @@ const App: React.FC = () => {
               <div>
                 <h3 className="text-xl font-bold text-wine-900 mb-2">Roblox Adventures</h3>
                 <p className="text-gray-600 font-light">
-                  From failing obbies to just sitting together in virtual worlds. It's not about the game; it's about being with you.
+                  Each dress to impress show and cooking rush round is thhe sweetest time spent, I remember when we climed mountain together! the sweetest thing ever!!!
                 </p>
               </div>
             </div>
@@ -114,7 +114,7 @@ const App: React.FC = () => {
               <div>
                 <h3 className="text-xl font-bold text-wine-900 mb-2">Rave & Watch Parties</h3>
                 <p className="text-gray-600 font-light">
-                  Boboiboy, movies, and late-night streams. Even miles apart, we are watching the same sky.
+                  Boboiboy, movies, and late-evening streams. Even miles apart, watching with you is so lovely and time tends to move way more fast with you. I love our streams so much
                 </p>
               </div>
             </div>
@@ -124,7 +124,7 @@ const App: React.FC = () => {
               <div>
                 <h3 className="text-xl font-bold text-wine-900 mb-2">Our Story Time</h3>
                 <p className="text-gray-600 font-light">
-                  Listening to you narrate stories with such excitement is a joy I never want to lose.
+                  Listening to you narrate stories with such excitement is a joy I cherish so much, I love the way you are excited when Ayako-San does something cool. Reading a story myself can never be as lovely!
                 </p>
               </div>
             </div>
