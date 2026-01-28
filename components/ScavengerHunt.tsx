@@ -76,10 +76,9 @@ const ScavengerHunt: React.FC = () => {
                 <div className="bg-white p-10 rounded-sm shadow-2xl max-w-lg text-center border-4 border-gold-300">
                     <h2 className="text-4xl font-heading text-wine-900 mb-4">You Found Everything! 🎉</h2>
                     <p className="text-gray-700 text-lg mb-8">
-                        Just like you found your way into my heart and explored every corner of it.
-                        There is no hiding from your love!
+                        YAY you did it! my girl is the best!!!
                     </p>
-                    <p className="text-xl font-bold text-wine-600 mb-8">Secret Code: CUTIE-7-MONTHS</p>
+                    <p className="text-xl font-bold text-wine-600 mb-8">I LOVE YOU!</p>
                     <button
                         onClick={() => setShowWonMessage(false)}
                         className="px-8 py-3 bg-wine-700 text-white rounded-full font-bold hover:bg-wine-800 transition-colors"
