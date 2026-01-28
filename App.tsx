@@ -4,6 +4,7 @@ import LoveLetterSection from './components/LoveLetterSection';
 import OpenWhenEnvelopes from './components/OpenWhenEnvelopes';
 import DoodleBoard from './components/DoodleBoard';
 import ScavengerHunt from './components/ScavengerHunt';
+import BackgroundMusic from './components/BackgroundMusic';
 import { Music, Heart, BookOpen, Gamepad2, Tv, Palette, ArrowDown, Sparkles } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 
@@ -36,6 +37,7 @@ const App: React.FC = () => {
 
   return (
     <div className="relative min-h-screen pb-20 font-body text-gray-700">
+      <BackgroundMusic />
       <FloatingHearts />
 
       {/* Header / Intro */}
